@@ -1,6 +1,6 @@
 # app_food
 
-A new Flutter project.
+A new Flutter project with fontend
 
 ## Screenshot
 ![1](https://user-images.githubusercontent.com/94905620/149273768-a5623fa4-2153-4125-bcdc-bb4803fa67bf.png)
